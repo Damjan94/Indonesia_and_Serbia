@@ -60,8 +60,8 @@ Also some people kept saying that they didn't need the *Visa D* even after 2018.
 - [Maticar][2] from the opstina you plan to get married in(do call this one, multiple times if needed, you don't want to get this wrong)
 - Foreign affairs in Serbia
 - Various Facebook groups dedicated to international marriages
-    - TODO add a group
-    - TODO add a group
+    - [KOMUNITAS KAWIN CAMPUR][9]
+    - [Mix Marriage Community Indonesia-Eropa][10]
 - Border control(I called the one in the Nikola Tesla airport in Belgrade, to ask about the PCR Tests)
 
 
@@ -74,3 +74,5 @@ Also some people kept saying that they didn't need the *Visa D* even after 2018.
 [6]: <./full_legalization.md>
 [7]: <http://www.jakarta.mfa.gov.rs/>
 [8]: <https://kemlu.go.id/belgrade/en>
+[9]: <https://www.facebook.com/groups/komunitaskawincampur/>
+[10]: <https://www.facebook.com/groups/531380194467764/>
