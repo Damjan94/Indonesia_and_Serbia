@@ -55,8 +55,8 @@ Also some people kept saying that they didn't need the *Visa D* even after 2018.
 
 ## Useful places to get help from
 
-- Serbian Embassy
-- Indonesian Embassy
+- [Serbian Embassy][7]
+- [Indonesian Embassy][8]
 - [Maticar][2] from the opstina you plan to get married in(do call this one, multiple times if needed, you don't want to get this wrong)
 - Foreign affairs in Serbia
 - Various Facebook groups dedicated to international marriages
@@ -72,3 +72,5 @@ Also some people kept saying that they didn't need the *Visa D* even after 2018.
 [4]: <./registering_in_embassy.md>
 [5]: <./getting_married.md>
 [6]: <./full_legalization.md>
+[7]: <http://www.jakarta.mfa.gov.rs/>
+[8]: <https://kemlu.go.id/belgrade/en>
