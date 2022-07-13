@@ -8,13 +8,9 @@ I'm just a regular guy, so, please don't hold me responsible if information you 
 
 ## Disclaimer two
 
-If you see that some info here is invalid/outdated, open an issue or do a PR.
+If you see that some info here is invalid/outdated, open an issue.
 
-Links do change and die. In the event that a link you clicked on isn't working:
-
-1. Blame the company for not using [IPFS](https://ipfs.io/)
-2. Open an issue stating what link, what document and what line number.
-    - Optionally you may open a [PR](https://opensource.com/article/19/7/create-pull-request-github) too
+Links do change and die. In the event that a link you clicked on isn't working please open an issue
 
 ## Laws do change
 
